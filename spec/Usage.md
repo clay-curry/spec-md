@@ -62,7 +62,7 @@ specific lines.
 
 ## Hot rebuilding with nodemon
 
-The `spec-md` shell executable follows the [Unix Philosophy](http://www.faqs.org/docs/artu/ch01s06.html)
+The `spec-md` shell executable follows the [Unix Philosophy](https://cscie2x.dce.harvard.edu/hw/ch01s06.html)
 of doing one thing and doing it well. Try out `nodemon` to continuously rebuild
 the HTML output as you edit the markdown specification:
 
